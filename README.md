@@ -1,8 +1,8 @@
-# 智能六足机器人hexbot ROS源码包
+# 智能六足机器人HEXBOT ROS源码包
 使用步骤
 
-1.安装ROS
-Melodic/Ubuntu 18.04 
+1、安装ROS
+Melodic/Ubuntu 18.04 [安装步骤]（http://wiki.ros.org/melodic/Installation/Ubuntu）
 
 2、配置开发环境
 
