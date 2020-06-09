@@ -5,9 +5,7 @@
 
 Melodic/Ubuntu 18.04 [安装步骤](http://wiki.ros.org/melodic/Installation/Ubuntu) 
 
-2、配置开发环境
-
-[配置方法](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+2、配置开发环境 [配置方法](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
 
 3、获取源码
 ```
@@ -17,6 +15,7 @@ $ catkin_init_workspace
 $ git clone https://github.com/VKROBOT-GIT/hexbot.git
 ```
 4、安装依赖项
+
 Kinetic/Ubuntu 16.0.4
 ```
 $ cd ~/catkin_ws/src/hexbot/vkhexbot_bringup/scripts
