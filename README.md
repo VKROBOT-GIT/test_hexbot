@@ -3,7 +3,7 @@
 ----
 1、安装ROS
 
-Melodic/Ubuntu 18.04 [安装步骤]（http://wiki.ros.org/melodic/Installation/Ubuntu）
+Melodic/Ubuntu 18.04 [安装步骤](http://wiki.ros.org/melodic/Installation/Ubuntu) 
 
 2、配置开发环境
 
