@@ -7,6 +7,8 @@ Melodic/Ubuntu 18.04 [安装步骤](http://wiki.ros.org/melodic/Installation/Ubu
 
 2、配置开发环境
 
+[配置方法](http://wiki.ros.org/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+
 3、安装依赖项
 
 4、获取源码
